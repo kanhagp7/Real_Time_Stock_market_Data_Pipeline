@@ -32,10 +32,3 @@ This project implements a **real-time stock market ETL pipeline** that fetches l
    - Displays interactive charts and real-time trends of stock prices.
    - Enables data-driven decision-making through visual insights.
      
-
-### **⭐ Contribution**
-If you’d like to contribute, feel free to fork this repo and submit a **pull request**!  
-
----
-
-Would you like me to customize this further based on specific project details? 🚀😊
