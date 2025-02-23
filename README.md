@@ -32,3 +32,8 @@ This project implements a **real-time stock market ETL pipeline** that fetches l
    - Displays interactive charts and real-time trends of stock prices.
    - Enables data-driven decision-making through visual insights.
      
+### **PowerBI Dashboard**
+
+![Screenshot 2025-02-20 135025 (1)](https://github.com/user-attachments/assets/6c611a7c-71f2-4710-8213-5e20f8fef6cc)
+
+
